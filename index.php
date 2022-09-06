@@ -45,12 +45,38 @@
           <div class="title">
             <h1>Twitter analytics taken to a whole new level.</h1>
           </div>
+          <div class="paragraph-1">
+            <p>Chirp is a suite of Twitter analytics that will help you better understand your audience, which
+            tweets they like, and most importantly, when they are the most active on Twitter.
+            </p>
+          </div>
+          <div class="d-flex pt-2 pb-4">
+            <button type="button" class="btn btn-success"><span><img src="Assets/images/Twitter.svg"></span>&nbsp;&nbsp;Sign in with Twitter</button>
+            <button type="button" class="btn btn-info">Learn more → </button>
+          </div>
+          <div class="d-flex">
+          <img id="avatar9"src="Assets/images/userAvatar09.svg">
+          <img id="avatar8" src="Assets/images/userAvatar08.svg">
+          <img id="avatar7" src="Assets/images/userAvatar07.svg">
+          <img id="avatar6" src="Assets/images/userAvatar06.svg">
+          <img id="avatar5" src="Assets/images/userAvatar05.svg">
+          <img id="avatar4" src="Assets/images/userAvatar04.svg">
+          <img id="avatar3" src="Assets/images/userAvatar03.svg">
+          <img id="avatar2" src="Assets/images/userAvatar02.svg">
+          <img id="avatar1" src="Assets/images/userAvatar01.svg">
+          </div>
+          <div class="paragraph-1" style="padding-top: 4rem;">
+            <p>Join <span style="color: #1f7898; font-weight: 600;">195</span> others who have analyzed their followers and<br> scheduled <span style="color: #1f7898; font-weight: 600;">1342</span> tweets!</p>
+          </div>
         </div>
     </div>
     <div class="col-5">
         
     </div>
   </div>
+  <br>
+  <br>
+  <br>
 </div>
 
 

@@ -60,7 +60,68 @@ body{
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+.col-7{
+    padding-bottom: 14rem;
+}
 .d-grid .title h1{
-    font-size: 4.5rem !important;
+    font-size: 5.3rem !important;
     font-weight: 700;
+}
+.paragraph-1 p{
+    font-size: 1.71rem !important;
+    color: var(--color-muted);
+}
+.btn-info{
+    --bs-btn-color: #1f7898 !important;
+    --bs-btn-bg: transparent !important;
+    --bs-btn-border-color: transparent !important;
+    font-size: 1.1rem !important; 
+    --bs-btn-hover-bg: transparent !important;
+    --bs-btn-hover-border-color: transparent !important;
+    font-weight: 700 !important;
+}
+#avatar1{
+    position: absolute;
+    z-index: 9;
+    padding-left: 16rem;
+}
+#avatar2{
+    position: absolute;
+    z-index: 8;
+    padding-left: 14rem;
+}
+#avatar3{
+    position: absolute;
+    z-index: 7;
+    padding-left: 12rem;
+}
+#avatar4{
+    position: absolute;
+    z-index: 6;
+    padding-left: 10rem;
+}
+#avatar5{
+    position: absolute;
+    z-index: 5;
+    padding-left: 8rem;
+}
+#avatar6{
+    position: absolute;
+    z-index: 4;
+    padding-left: 6rem;
+}
+#avatar7{
+    position: absolute;
+    z-index: 3;
+    padding-left: 4rem;
+}
+#avatar8{
+    position: absolute;
+    z-index: 2;
+    padding-left: 2rem;
+}
+#avatar9{
+    position: absolute;
+    z-index: 1;
+    padding-left: 0rem;
 }
