@@ -14,23 +14,44 @@
 <body>
 <nav class="navbar navbar-expand-lg">
   <div class="container">
-    <a class="navbar-brand" href="#">Chirp.</a>
+    <a class="navbar-brand fst-italic" href="#">Chirp.</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
-      <ul class="navbar-nav" id="second-nav">
+      <ul class="navbar-nav" style="margin-left: auto !important;font-size: 1.45rem !important;">
         <li class="nav-item">
-            <a href="#" class="nav-link sign-in">Sign-In</a>
+            <a href="#" class="nav-link sign-in">Home</a>
         </li>
-        <li class="nav-item" id="buttontry">
-        <button type="button" class="btn btn-success">Try For Free</button>
+        <li class="nav-item">
+            <a href="#" class="nav-link sign-in">Pricing</a>
+        </li>
+        <li class="nav-item">
+            <a href="#" class="nav-link sign-in">FAQ</a>
+        </li>
+        <li class="nav-item">
+        <button type="button" class="btn btn-success"><span><img src="Assets/images/Twitter.svg"></span>&nbsp;&nbsp;Sign in with Twitter</button>
         </li>
         </ul>
     </div>
   </div>
 </nav>
-
+<br>
+<br>
+<div class="container">
+  <div class="row d-flex">
+    <div class="col-7">
+        <div class="d-grid">
+          <div class="title">
+            <h1>Twitter analytics taken to a whole new level.</h1>
+          </div>
+        </div>
+    </div>
+    <div class="col-5">
+        
+    </div>
+  </div>
+</div>
 
 
 
